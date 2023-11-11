@@ -1,7 +1,7 @@
 # Titanic Dataset 분석
 * 구글 코랩에서 실행
 
-[![Google Colab](https://img.shields.io/badge/GoogleColab-F9AB00.svg?&style=for-the-badge&logo=GoogleColab&logoColor=white)](https://colab.research.google.com/github/7l-hyuk/Machine-Learning-Assignment/blob/master/%EA%B3%BC%EC%A0%9C1-Titanic%20Dataset.ipynb)
+[![Google Colab](https://img.shields.io/badge/GoogleColab-F9AB00.svg?&style=for-the-badge&logo=GoogleColab&logoColor=white)](https://colab.research.google.com/drive/13B8TholOxY8o6M6PcQ7_UVxMP5DEQeWW?usp=sharing)
 
 ## 필요 모듈
 ```python
