@@ -8,6 +8,7 @@ pip install seaborn
 pip install missingno
 pip install plotly
 pip install matplotlib
+pip install sklearn
 ```
 
 ## 목차
